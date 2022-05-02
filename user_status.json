@@ -1,0 +1,14 @@
+{
+    "user_id": {
+        "authentications": 0,
+        "status": "False",
+        "student_council_question": "False",
+        "grade": "0"
+    },
+    "Ud82c3317b7d309089b373ef8b6ab4c27": {
+        "authentications": 0,
+        "status": "login",
+        "student_council_question": "False",
+        "grade": "1"
+    }
+}

@@ -1,0 +1,23 @@
+
+2022年01月22日 18:12:06 user_name:Bunta Matsushita
+message:制服はいつになったらなくなりますか？
+2022年01月22日 18:24:39 grade:3
+message:スマホの利用方法のガイドラインをもっと具体的に書く方がいいと思います。
+2022年01月22日 18:25:24 grade:3
+opinion:スマホの利用方法のガイドラインをもっと具体的に書く方がいいと思います。
+2022年01月22日 18:58:21 grade:3
+opinion:print(user_id(id))
+2022年01月22日 18:12:06 user_name:Bunta Matsushita
+message:制服はいつになったらなくなりますか？
+2022年01月22日 18:24:39 grade:3
+message:スマホの利用方法のガイドラインをもっと具体的に書く方がいいと思います。
+2022年01月22日 18:25:24 grade:3
+opinion:スマホの利用方法のガイドラインをもっと具体的に書く方がいいと思います。
+2022年01月22日 18:58:21 grade:3
+opinion:print(user_id(id))
+2022年01月22日 18:25:24 grade:3
+opinion:スマホの利用方法のガイドラインをもっと具体的に書く方がいいと思います。
+2022年01月22日 18:58:21 grade:3
+opinion:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2022年02月02日 22:17:16 grade:1
+opinion:ととねそ「よよ
